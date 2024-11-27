@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35431.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışan Rolleri ve Maaş Hesaplama", "Çalışan Rolleri ve Maaş Hesaplama\Çalışan Rolleri ve Maaş Hesaplama.csproj", "{A5F76FA9-164D-4CCA-9C08-F0F75027AB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F76FA9-164D-4CCA-9C08-F0F75027AB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F76FA9-164D-4CCA-9C08-F0F75027AB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F76FA9-164D-4CCA-9C08-F0F75027AB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F76FA9-164D-4CCA-9C08-F0F75027AB58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E52363-273B-40CF-8C54-B912B8596196}
+	EndGlobalSection
+EndGlobal
